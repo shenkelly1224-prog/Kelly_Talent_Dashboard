@@ -1,0 +1,17 @@
+Employee ID,Name,Department,Position,Level,2023 Perf,2024 Perf,2025 Perf,Manager ID,Direct Manager
+M001,Alex Li,Sales Team 1,Regional Sales Manager,N-2,S,A,S,E101,James Chen
+M002,Emma Wang,Sales Team 2,Key Account Manager,N-2,A,A,A,E101,James Chen
+M003,Ryan Liu,Sales Team 1,Channel Manager,N-2,B,B,C,E101,James Chen
+M004,Kevin Zhang,Sales Team 3,Retail Manager,N-2,S,S,A,E101,James Chen
+M005,Jenny Huang,Product Team 1,Product Manager,N-2,A,S,A,E102,Linda Lin
+M006,Frank Yang,Product Team 2,Senior Product Manager,N-2,S,A,B,E102,Linda Lin
+M007,Tina Wu,Product Team 1,UX Research Lead,N-2,C,B,B,E102,Linda Lin
+M008,Leo Xu,Engineering Team 1,Frontend Manager,N-2,A,A,S,E103,David Zhao
+M009,Steven Sun,Engineering Team 2,Backend Architect,N-2,S,S,S,E103,David Zhao
+M010,Jason Ma,Engineering Team 1,QA Lead,N-2,B,C,B,E103,David Zhao
+M011,Wendy Zheng,Engineering Team 2,Data Engineer,N-2,A,B,A,E103,David Zhao
+M012,Amy He,Marketing Team 1,Brand Manager,N-2,B,A,A,E104,Sarah Zhou
+M013,Lisa Luo,Marketing Team 2,Digital Marketing Manager,N-2,A,B,S,E104,Sarah Zhou
+M014,Tom Gao,Operations Team 1,Supply Chain Manager,N-2,C,B,B,E105,Mike Sun
+M015,Grace Tang,Operations Team 2,Customer Success Manager,N-2,A,A,A,E105,Mike Sun
+
