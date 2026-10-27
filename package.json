@@ -1,0 +1,14 @@
+{
+  "name": "kelly-talent-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kelly Talent Review bilingual static site and Render launcher",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
